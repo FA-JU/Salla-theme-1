@@ -3,7 +3,7 @@
         "ar": "test",
         "en": "test"
     },
-    "repository": "https://github.com/A4997/test",
+    "repository": "https://github.com/FA-JU/theme",
     "author_email": "ayaashraf186@gmail.com",
     "features": [
         "mega-menu",
@@ -730,9 +730,9 @@
             ]
         }
     ],
-    "support_url": null,
+    "support_url": "https://www.tococolors.com",
     "description": {
-        "ar": null,
-        "en": null
+        "ar": "Lorem ipsum dolor sit amet. Et omnis deserunt non magnam consectetur 33 voluptates praesentium est reprehenderit Quis ex commodi odit. Vel eaque perspiciatis ut numquam consequatur qui tempora ipsam e",
+        "en": "Lorem ipsum dolor sit amet. Et omnis deserunt non magnam consectetur 33 voluptates praesentium est reprehenderit Quis ex commodi odit. Vel eaque perspiciatis ut numquam consequatur qui tempora ipsam e"
     }
 }
